@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_SHG_UI_effects
+  m_Shader: {fileID: -6465566751694194690, guid: a601b78e3347fdf4197a745adcc1798f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Distortion_texture:
+        m_Texture: {fileID: 2800000, guid: d83a3ec1412b3b2468ccbbbe32d12d61, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Impact_frame_texture:
+        m_Texture: {fileID: 2800000, guid: febc3de0ade7fa84c8fea0a2844993cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_611549ba68404164afad0d82cb0bfeab_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 04579c66e92dcca45841e343b2813853, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ColorMask: 15
+    - _Color_amount: 9.09
+    - _Distortion_power: 0.002
+    - _Distortion_speed: 10
+    - _Distortion_tiling: 27.02
+    - _Frame_vignette: 0.05
+    - _Impact_frame_power: 1
+    - _Posterisation_power: 1
+    - _Range: 1.43
+    - _Resolution: 170.87
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _Stop_motion: 1
+    - _Texture_distortion: 0.02
+    - _Texture_distortion_scale: 1300.64
+    - _Texture_power: 1
+    - _Texture_speed: 5
+    - _Texture_tiling: 0.93
+    - _UIMaskSoftnessX: 1
+    - _UIMaskSoftnessY: 1
+    - _Vignette_multiplier: 0
+    m_Colors:
+    - _ClipRect: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_1: {r: 1, g: 0.9415095, b: 0.9638496, a: 1}
+    - _Distortion_tiling: {r: 35, g: 35, b: 0, a: 0}
+    - _Offset_distortion: {r: 0, g: 0, b: 0, a: 0}
+    - _back_color: {r: 0.22264141, g: 0.19617648, b: 0.20406407, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
