@@ -37,12 +37,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Amount: 0.191
     - _Effect_power: 0.006
     - _Posterization_power: 2.81
     - _Posterization_power_1: 64.17
     - _Power: 2.28
     - _Resolution: 512
-    - _Resolution_1: 2.4
+    - _Resolution_1: 25
     - _Size: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}

@@ -5,9 +5,11 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
-  - Damage
   - Enemy
   - Minion
+  - Tombstone
+  - Loot
+  - Attack
   layers:
   - Default
   - TransparentFX
@@ -18,8 +20,8 @@ TagManager:
   - Minion
   - Loot
   - Enemy
-  - 
-  - 
+  - Damage_enemy
+  - Damage_player
   - 
   - 
   - 

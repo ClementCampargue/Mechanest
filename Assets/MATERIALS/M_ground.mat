@@ -98,6 +98,7 @@ Material:
     - _Color: {r: 0.6415094, g: 0.5828965, b: 0.46902812, a: 1}
     - _Color_1: {r: 0.6320754, g: 0.58139014, b: 0.48001954, a: 1}
     - _Color_2: {r: 0, g: 0, b: 0, a: 1}
+    - _Emissive: {r: 0, g: 0, b: 0, a: 1}
     - _Fresnel_color: {r: 0, g: 0, b: 0, a: 1}
     - _Intersection_color: {r: 1, g: 0, b: 0, a: 1}
     - _Moss_color: {r: 0.11698109, g: 0.11698109, b: 0.11698109, a: 1}
